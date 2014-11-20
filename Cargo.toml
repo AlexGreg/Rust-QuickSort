@@ -3,3 +3,6 @@
 name = "quick_sort"
 version = "0.0.1"
 authors = ["Alexandru <alexandru.grigoras86@gmail.com>"]
+
+[dependencies.time]
+git = "https://github.com/rust-lang/time.git"
